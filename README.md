@@ -4,3 +4,7 @@
 4.https://1000projects.org/projects/spring-boot-projects
 5.https://github.com/shekhargulati/useful-microservices-reading-list
 7.https://github.com/koushikkothagal/spring-security-jwt
+8.https://github.com/DataDog/apm-tutorial-java-host
+9.https://github.com/Genc/spring-boot-boilerplate
+10.https://bootify.io/
+11.https://github.com/mewebstudio/java-spring-boot-boilerplate
